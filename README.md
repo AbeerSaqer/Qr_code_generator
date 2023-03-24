@@ -1,6 +1,8 @@
 # qr_generate
 
-A new Flutter project.
+![qr](https://user-images.githubusercontent.com/87999447/227398258-18977f44-a0e9-4f35-ab8d-ac29545f81a4.jpg)
+
+
 
 ## Getting Started
 
